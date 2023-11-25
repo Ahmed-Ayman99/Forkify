@@ -10,7 +10,7 @@
 
 ## Demo
 
-See the live demo of the Wild-Oasis Quiz App: [Demo App](https://ahmed-ayman-forkify.netlify.app/)
+See the live demo of the Forkify Quiz App: [Demo App](https://ahmed-ayman-forkify.netlify.app/)
 
 ## Contact
 
